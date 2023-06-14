@@ -29,4 +29,4 @@ __Tools \ Languages:__ Python, Tensorflow, PyTorch, Scikit-Learn, HuggingFace Tr
 
 ### Author
 
-![](https://i.imgur.com/ceIJvQJ.png)
+<img src="https://i.imgur.com/ceIJvQJ.png" alt="" data-canonical-src="https://i.imgur.com/ceIJvQJ.png" width="200"/>
