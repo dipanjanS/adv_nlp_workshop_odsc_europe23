@@ -29,4 +29,6 @@ __Tools \ Languages:__ Python, Tensorflow, PyTorch, Scikit-Learn, HuggingFace Tr
 
 ### Author
 
-<img src="https://i.imgur.com/ceIJvQJ.png" alt="" data-canonical-src="https://i.imgur.com/ceIJvQJ.png" width="200"/>
+<a href="https://djsarkar.com/">
+  <img src="https://i.imgur.com/ceIJvQJ.png" alt="" data-canonical-src="https://i.imgur.com/ceIJvQJ.png" width="200"/>
+</a>
